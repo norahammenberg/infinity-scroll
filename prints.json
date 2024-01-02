@@ -1,0 +1,85 @@
+[
+    {
+        "Name":"Cahco Canyon",
+        "src":"prints/Cahco-canyon.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Desert Land New Mexico",
+        "src":"prints/Desert-Land-New-Mexico.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Dry Desert",
+        "src":"prints/Dry-Desert.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"El Morro I",
+        "src":"prints/El-Morro-I.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"El Morro II",
+        "src":"prints/El-Morro-II.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"CEl Morro III",
+        "src":"prints/El-morro-III.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Gritston I",
+        "src":"prints/Gritston-I.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Memories of New Mexico I",
+        "src":"prints/Memories-of-New-Mexico-I.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Memories of New Mexico II",
+        "src":"prints/Memories-of-New-Mexico-II.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"New Mexico Water",
+        "src":"prints/New-Mexico-Water.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Sandstone I",
+        "src":"prints/Sandstone-I.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Sandstone II",
+        "src":"prints/Sandstone-II.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Sandstone III",
+        "src":"prints/Sandstone-III.jpg",
+        "alt":"Lithography"
+    },
+
+    {
+        "Name":"Untitled",
+        "src":"prints/Untitle.jpg",
+        "alt":"Lithography"
+    }
+]
