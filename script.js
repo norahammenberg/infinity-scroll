@@ -46,7 +46,7 @@ function setAttributes(element, attributes) {
 function displayPhotos() {
     //making the varaible totalimages the same length as the array:
     totalImages = photosArray.length;
-
+    imagesLoaded = 0;
     //looping through the images
     photosArray.forEach((photo) => {
         //Create an <a> to link to unsplach.
